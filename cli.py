@@ -1,6 +1,6 @@
 import functions
 import time
-
+print("Time is : ")
 print(time.strftime("%d-%m-%Y %H:%M:%S"))
 while True:
     user_action = input("Type add, show, edit, complete or exit")
