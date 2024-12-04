@@ -1,3 +1,5 @@
-eating
-traveling
+read
+travel
 sleep
+play
+eat
