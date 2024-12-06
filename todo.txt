@@ -1,5 +1,2 @@
-read
-travel
-sleep
-play
-eat
+playing
+reading
